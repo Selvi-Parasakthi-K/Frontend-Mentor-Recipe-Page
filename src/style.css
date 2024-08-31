@@ -87,7 +87,7 @@ img {
 }
 
 .recipe-ingredients ul {
-    padding: 1.5em
+    padding: 1em
 }
 
 .recipe-ingredients li {
@@ -104,7 +104,7 @@ img {
 }
 
 .recipe-instructions ol {
-    padding: 1.5em
+    padding: 1em
 }
 
 .recipe-instructions ol li::marker{
