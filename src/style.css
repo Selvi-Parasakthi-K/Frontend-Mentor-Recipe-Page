@@ -104,7 +104,7 @@ img {
 }
 
 .recipe-instructions ol {
-    padding: 1em 1.7em;
+    padding: 1em 1em 1em 1.7em;
 }
 
 .recipe-instructions ol li::marker{
@@ -126,7 +126,7 @@ tr {
 }
 
 td {
-    padding: 1em;
+    padding: 0.7em;
 }
 
 .nutrition {
@@ -155,5 +155,8 @@ td {
     }
     .recipe-content {
         margin-top: 0em;
+    }
+    .recipe-instructions ol {
+        padding-right: 0em;
     }
 }
